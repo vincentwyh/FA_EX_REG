@@ -1,0 +1,15 @@
+C:\Users\vince\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\vince\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\vince\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\vince\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\vince\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\vince\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\vince\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\vince\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\vince\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\vince\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\vince\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\vince\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\vince\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\vince\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\vince\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
